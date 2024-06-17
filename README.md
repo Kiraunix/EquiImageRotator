@@ -2,7 +2,7 @@
 
 ![Demo GIF](./demo.gif)
 
-EquiImageRotator is a user-friendly application designed to rotate equirectangular images with ease. Whether you're working with 360-degree panoramas or other spherical images, this tool provides a simple interface to apply roll, pitch, and yaw rotations accurately.
+EquiImageRotator is an experimental tool designed to rotate equirectangular images with ease. Whether you're working with 360-degree panoramas or other spherical images, this application provides a simple interface to apply roll, pitch, and yaw rotations accurately.
 
 ## Features
 Load and Save Images: Easily load equirectangular images from your file system and save the rotated images.
