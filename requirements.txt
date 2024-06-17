@@ -1,0 +1,5 @@
+tk
+numpy
+Pillow
+pyequilib
+torch
