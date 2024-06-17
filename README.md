@@ -1,6 +1,6 @@
 # EquiImageRotator
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KNXfIRI7gAc?si=RxggmxFQwGnRNTt3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![Demo GIF](./demo.gif)
 
 EquiImageRotator is a user-friendly application designed to rotate equirectangular images with ease. Whether you're working with 360-degree panoramas or other spherical images, this tool provides a simple interface to apply roll, pitch, and yaw rotations accurately.
 
